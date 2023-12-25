@@ -1,6 +1,10 @@
 # Minecraft-Server-Ripper
 MCSR Is a tool that extracts useful data from a minecraft server.
 
+# API
+
+`https://api.mcsrvstat.us` Has made this possible
+
 # How to use
 
 To use MCSR you need to have the IP of the minecraft server you want to scan and paste it into the input.
